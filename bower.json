@@ -1,0 +1,21 @@
+{
+  "name": "postie_website",
+  "homepage": "https://github.com/raptattention/postie_website",
+  "authors": [
+    "raptattention <klaw1794@gmail.com>"
+  ],
+  "description": "Official Website of Postie",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "Posite"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
